@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Np7kRHgrCd8BdPHNlGz/Fv26yyNwdrnB9RIJJNPvOkZbnE8kh8dVW9MtQSt9FH3zkDvjb+BR5Gp1WkTAoqA+Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Neeraj\\Project\\repos\\eTechTube\\eTechTube\\eTechTube.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

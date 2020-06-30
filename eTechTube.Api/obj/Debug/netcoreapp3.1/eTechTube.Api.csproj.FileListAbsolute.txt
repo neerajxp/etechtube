@@ -1,0 +1,9 @@
+C:\Neeraj\Project\repos\eTechTube\eTechTube.Api\bin\Debug\netcoreapp3.1\eTechTube.Api.deps.json
+C:\Neeraj\Project\repos\eTechTube\eTechTube.Api\bin\Debug\netcoreapp3.1\eTechTube.Api.dll
+C:\Neeraj\Project\repos\eTechTube\eTechTube.Api\bin\Debug\netcoreapp3.1\eTechTube.Api.pdb
+C:\Neeraj\Project\repos\eTechTube\eTechTube.Api\obj\Debug\netcoreapp3.1\eTechTube.Api.csprojAssemblyReference.cache
+C:\Neeraj\Project\repos\eTechTube\eTechTube.Api\obj\Debug\netcoreapp3.1\eTechTube.Api.AssemblyInfoInputs.cache
+C:\Neeraj\Project\repos\eTechTube\eTechTube.Api\obj\Debug\netcoreapp3.1\eTechTube.Api.AssemblyInfo.cs
+C:\Neeraj\Project\repos\eTechTube\eTechTube.Api\obj\Debug\netcoreapp3.1\eTechTube.Api.csproj.CoreCompileInputs.cache
+C:\Neeraj\Project\repos\eTechTube\eTechTube.Api\obj\Debug\netcoreapp3.1\eTechTube.Api.dll
+C:\Neeraj\Project\repos\eTechTube\eTechTube.Api\obj\Debug\netcoreapp3.1\eTechTube.Api.pdb
